@@ -2029,3 +2029,169 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.01.24-12.48.13:493][550]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
 [2025.01.24-12.48.13:493][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.01.24-12.48.13:537][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.01.24-12.51.22:373][208]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1663.798096
+[2025.01.24-12.51.23:372][211]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-12.51.23:372][211]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1664.464844, Update Interval: 320.640289
+[2025.01.24-12.51.38:130][546]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/SimTestLevel/SimTestLevel.SimTestLevel:PersistentLevel.SimTestLevel
+[2025.01.24-12.51.38:130][546]LogChaosDD: Creating Chaos Debug Draw Scene for world World_21
+[2025.01.24-12.54.15:704][542]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SimTestLevel/Ingredients/BP_Cup.BP_Cup_C
+[2025.01.24-12.54.15:704][542]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SimTestLevel/Ingredients/BP_Cup.BP_Cup_C
+[2025.01.24-12.54.15:705][542]LogActorFactory: Actor Factory spawned Blueprint /Game/SimTestLevel/Ingredients/BP_Cup.BP_Cup as actor: BP_Cup_C /Game/SimTestLevel/SimTestLevel.SimTestLevel:PersistentLevel.BP_Cup_C_0
+[2025.01.24-12.54.15:706][542]LogActorFactory: Actor Factory spawned Blueprint /Game/SimTestLevel/Ingredients/BP_Cup.BP_Cup as actor: BP_Cup_C /Game/SimTestLevel/SimTestLevel.SimTestLevel:PersistentLevel.BP_Cup_C_0
+[2025.01.24-12.54.17:244][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.01.24-12.54.17:245][723]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.01.24-12.54.17:248][723]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SimTestLevel/Ingredients/BP_Cup.BP_Cup_C
+[2025.01.24-12.54.17:248][723]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SimTestLevel/Ingredients/BP_Cup.BP_Cup_C
+[2025.01.24-12.54.17:257][723]LogActorFactory: Actor Factory spawned Blueprint /Game/SimTestLevel/Ingredients/BP_Cup.BP_Cup as actor: BP_Cup_C /Game/SimTestLevel/SimTestLevel.SimTestLevel:PersistentLevel.BP_Cup_C_2
+[2025.01.24-12.54.17:258][723]LogActorFactory: Actor Factory spawned Blueprint /Game/SimTestLevel/Ingredients/BP_Cup.BP_Cup as actor: BP_Cup_C /Game/SimTestLevel/SimTestLevel.SimTestLevel:PersistentLevel.BP_Cup_C_2
+[2025.01.24-12.54.28:309][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.24-12.54.28:344][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.01.24-12.54.28:371][ 41]LogSavePackage: Moving output files for package: /Game/SimTestLevel/SimTestLevel
+[2025.01.24-12.54.28:372][ 41]LogSavePackage: Moving 'E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Saved/SimTestLevel76065C2C48AC3F51FDA3B1841CC4FED4.tmp' to 'E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/SimTestLevel.umap'
+[2025.01.24-12.54.28:375][ 41]LogFileHelpers: Saving map 'SimTestLevel' took 0.050
+[2025.01.24-12.54.28:380][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.685 ms (total: 356.626 ms)
+[2025.01.24-12.54.28:410][ 41]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.24-12.54.28:410][ 41]LogContentValidation: Enabled validators:
+[2025.01.24-12.54.28:410][ 41]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.24-12.54.28:410][ 41]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.24-12.54.28:410][ 41]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.24-12.54.28:410][ 41]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.24-12.54.28:410][ 41]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.24-12.54.28:410][ 41]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.24-12.54.28:410][ 41]AssetCheck: /Game/SimTestLevel/SimTestLevel Validating asset
+[2025.01.24-12.54.30:257][262]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-12.54.30:260][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-12.54.30:260][262]LogPlayLevel: Display: Creating online subsystem for client :Context_27
+[2025.01.24-12.54.30:262][262]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.01.24-12.54.30:272][263]LogPlayLevel: Creating play world package: /Game/SimTestLevel/UEDPIE_0_SimTestLevel
+[2025.01.24-12.54.30:277][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004293s)
+[2025.01.24-12.54.30:277][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SimTestLevel/SimTestLevel.SimTestLevel to /Game/SimTestLevel/UEDPIE_0_SimTestLevel.SimTestLevel (0.004323s)
+[2025.01.24-12.54.30:308][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.01.24-12.54.30:309][263]LogChaosDD: Creating Chaos Debug Draw Scene for world SimTestLevel
+[2025.01.24-12.54.30:310][263]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2025.01.24-12.54.30:310][263]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.01.24-12.54.30:310][263]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.24-12.54.30:310][263]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.24-12.54.30:310][263]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.24-12.54.30:310][263]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.24-12.54.30:310][263]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.01.24-12.54.30:310][263]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.24-12.54.30:311][263]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.01.24-12.54.30:311][263]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.24-12.54.30:311][263]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.24-12.54.30:311][263]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.24-12.54.30:311][263]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.24-12.54.30:312][263]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.24-12.54.30:377][263]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.01.24-12.54.30:377][263]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.24-12.54.30:377][263]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.24-12.54.30:377][263]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.24-12.54.30:378][263]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.01.24-12.54.30:378][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.01.24-12.54.30:380][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.01.24-12.54.30:380][263]LogInit: FAudioDevice initialized with ID 6.
+[2025.01.24-12.54.30:380][263]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.01.24-12.54.30:380][263]LogAudio: Display: Audio Device (ID: 6) registered with world 'SimTestLevel'.
+[2025.01.24-12.54.30:380][263]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.01.24-12.54.30:382][263]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.01.24-12.54.30:382][263]LogWorld: Bringing World /Game/SimTestLevel/UEDPIE_0_SimTestLevel.SimTestLevel up for play (max tick rate 0) at 2025.01.24-13.54.30
+[2025.01.24-12.54.30:383][263]LogWorld: Bringing up level for play took: 0.000725
+[2025.01.24-12.54.30:385][263]PIE: Server logged in
+[2025.01.24-12.54.30:386][263]PIE: Play in editor total start time 0,126 seconds.
+[2025.01.24-12.54.34:886][798]LogBlueprintUserMessages: [SimTestLevel_C_1] Coconut
+[2025.01.24-12.54.38:345][213]LogBlueprintUserMessages: [SimTestLevel_C_1] Coconut
+[2025.01.24-12.54.39:612][365]LogBlueprintUserMessages: [SimTestLevel_C_1] Coconut
+[2025.01.24-12.54.43:728][859]LogBlueprintUserMessages: [SimTestLevel_C_1] Coconut
+[2025.01.24-12.54.43:728][859]LogBlueprintUserMessages: [SimTestLevel_C_1] Beans
+[2025.01.24-12.54.46:386][178]LogBlueprintUserMessages: [SimTestLevel_C_1] Coconut
+[2025.01.24-12.54.46:386][178]LogBlueprintUserMessages: [SimTestLevel_C_1] Beans
+[2025.01.24-12.54.46:386][178]LogBlueprintUserMessages: [SimTestLevel_C_1] Blacktea
+[2025.01.24-12.54.47:853][354]LogBlueprintUserMessages: [SimTestLevel_C_1] Coconut
+[2025.01.24-12.54.47:853][354]LogBlueprintUserMessages: [SimTestLevel_C_1] Beans
+[2025.01.24-12.54.47:853][354]LogBlueprintUserMessages: [SimTestLevel_C_1] Blacktea
+[2025.01.24-12.54.50:320][650]LogBlueprintUserMessages: [SimTestLevel_C_1] Item already in Tea
+[2025.01.24-12.54.51:437][784]LogBlueprintUserMessages: [SimTestLevel_C_1] Item already in Tea
+[2025.01.24-12.54.52:711][937]LogBlueprintUserMessages: [SimTestLevel_C_1] Coconut
+[2025.01.24-12.54.52:711][937]LogBlueprintUserMessages: [SimTestLevel_C_1] Beans
+[2025.01.24-12.54.52:711][937]LogBlueprintUserMessages: [SimTestLevel_C_1] Blacktea
+[2025.01.24-12.54.55:437][264]LogBlueprintUserMessages: [SimTestLevel_C_1] Coconut
+[2025.01.24-12.54.55:437][264]LogBlueprintUserMessages: [SimTestLevel_C_1] Beans
+[2025.01.24-12.54.59:053][698]LogBlueprintUserMessages: [SimTestLevel_C_1] Coconut
+[2025.01.24-12.54.59:053][698]LogBlueprintUserMessages: [SimTestLevel_C_1] Beans
+[2025.01.24-12.54.59:053][698]LogBlueprintUserMessages: [SimTestLevel_C_1] Blacktea
+[2025.01.24-12.54.59:053][698]LogBlueprintUserMessages: [SimTestLevel_C_1] Sugar
+[2025.01.24-12.54.59:662][771]LogBlueprintUserMessages: [SimTestLevel_C_1] Coconut
+[2025.01.24-12.54.59:662][771]LogBlueprintUserMessages: [SimTestLevel_C_1] Sugar
+[2025.01.24-12.55.00:278][845]LogBlueprintUserMessages: [SimTestLevel_C_1] Item already in Tea
+[2025.01.24-12.55.01:599][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-12.55.01:599][998]LogWorld: BeginTearingDown for /Game/SimTestLevel/UEDPIE_0_SimTestLevel
+[2025.01.24-12.55.01:599][998]LogWorld: UWorld::CleanupWorld for SimTestLevel, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-12.55.01:599][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-12.55.01:603][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.24-12.55.01:606][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-12.55.01:620][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-12.55.01:620][998]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.01.24-12.55.01:620][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.01.24-12.55.01:622][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.01.24-12.55.01:630][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.01.24-12.55.01:668][  0]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.01.24-12.57.23:029][618]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2024.454834
+[2025.01.24-12.57.24:029][621]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-12.57.24:029][621]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2025.121338, Update Interval: 335.968506
+[2025.01.24-13.03.50:794][781]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2412.215332
+[2025.01.24-13.03.51:793][784]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-13.03.51:793][784]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2412.882324, Update Interval: 325.593445
+[2025.01.24-13.04.59:860][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.01.24-13.04.59:861][988]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SimTestLevel/SimTestLevel' took 0.025
+[2025.01.24-13.04.59:861][988]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/SimTestLevel/Ingredients/BP_Cup] ([2] browsable assets)...
+[2025.01.24-13.04.59:962][988]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SimTestLevel/Ingredients/BP_Cup.BP_Cup]
+[2025.01.24-13.04.59:962][988]OBJ SavePackage: Finished generating thumbnails for package [/Game/SimTestLevel/Ingredients/BP_Cup]
+[2025.01.24-13.04.59:975][988]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SimTestLevel/Ingredients/BP_Cup_Auto1
+[2025.01.24-13.04.59:975][988]LogSavePackage: Moving 'E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Saved/BP_Cup_Auto181F12AA84C062DF02653C481F33FB7B3.tmp' to 'E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Saved/Autosaves/Game/SimTestLevel/Ingredients/BP_Cup_Auto1.uasset'
+[2025.01.24-13.04.59:975][988]LogFileHelpers: Auto-saving content packages took 0.114
+[2025.01.24-13.10.08:739][319]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2790.155762
+[2025.01.24-13.10.08:905][339]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-13.10.08:905][339]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2790.314209, Update Interval: 351.600708
+[2025.01.24-13.10.28:106][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.24-13.10.28:153][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.01.24-13.10.28:180][643]LogSavePackage: Moving output files for package: /Game/SimTestLevel/SimTestLevel
+[2025.01.24-13.10.28:180][643]LogSavePackage: Moving 'E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Saved/SimTestLevelA65AFF9F4A66A1DF5170D9AAC294887B.tmp' to 'E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/SimTestLevel.umap'
+[2025.01.24-13.10.28:184][643]LogFileHelpers: Saving map 'SimTestLevel' took 0.052
+[2025.01.24-13.10.28:188][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.623 ms (total: 438.250 ms)
+[2025.01.24-13.10.28:215][643]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.24-13.10.28:215][643]LogContentValidation: Enabled validators:
+[2025.01.24-13.10.28:215][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.24-13.10.28:215][643]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.24-13.10.28:215][643]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.24-13.10.28:215][643]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.24-13.10.28:215][643]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.24-13.10.28:215][643]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.24-13.10.28:215][643]AssetCheck: /Game/SimTestLevel/SimTestLevel Validating asset
+[2025.01.24-13.10.31:082][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.01.24-13.10.33:348][980]LogSlate: Window 'Save Content' being destroyed
+[2025.01.24-13.10.33:351][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.24-13.10.33:383][980]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SimTestLevel/Ingredients/BP_Cup] ([2] browsable assets)...
+[2025.01.24-13.10.33:383][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/SimTestLevel/Ingredients/BP_Cup]
+[2025.01.24-13.10.33:383][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SimTestLevel/Ingredients/BP_Cup" FILE="E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/Ingredients/BP_Cup.uasset" SILENT=true
+[2025.01.24-13.10.33:384][980]LogSavePackage: Moving output files for package: /Game/SimTestLevel/Ingredients/BP_Cup
+[2025.01.24-13.10.33:385][980]LogSavePackage: Moving 'E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Saved/BP_Cup5AF443E842E94BB082276C98D1F44482.tmp' to 'E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/Ingredients/BP_Cup.uasset'
+[2025.01.24-13.10.33:389][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.079 ms (total: 475.330 ms)
+[2025.01.24-13.10.33:408][980]LogContentValidation: Display: Starting to validate 1 assets
+[2025.01.24-13.10.33:408][980]LogContentValidation: Enabled validators:
+[2025.01.24-13.10.33:408][980]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.01.24-13.10.33:408][980]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.01.24-13.10.33:408][980]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.01.24-13.10.33:408][980]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.01.24-13.10.33:408][980]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.01.24-13.10.33:408][980]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.01.24-13.10.33:408][980]AssetCheck: /Game/SimTestLevel/Ingredients/BP_Cup Validating asset
+[2025.01.24-13.11.43:432][264]LogSlate: Window 'SimTestLevel' being destroyed
+[2025.01.24-13.11.43:435][264]LogSlate: Window 'SimTestLevel' being destroyed
+[2025.01.24-13.11.43:437][264]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-13.11.43:437][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-13.11.43:480][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.01.24-13.11.59:512][178]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/SimTestLevel/SimTestLevel.SimTestLevel:PersistentLevel.SimTestLevel
+[2025.01.24-13.11.59:512][178]LogChaosDD: Creating Chaos Debug Draw Scene for world World_22
+[2025.01.24-13.16.57:723][255]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3199.087646
+[2025.01.24-13.16.58:723][258]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.01.24-13.16.58:723][258]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3199.754150, Update Interval: 310.298157

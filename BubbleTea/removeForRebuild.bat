@@ -1,0 +1,6 @@
+@RD /S /Q ".\Binaries"
+@RD /S /Q ".\Build"
+@RD /S /Q ".\Intermediate"
+@RD /S /Q ".\Saved"
+rem @RD /S /Q ".\.vs"
+@DEL /S /Q ".\DarkPinsa.sln"
