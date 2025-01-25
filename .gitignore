@@ -74,3 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 /BubbleTea/Saved
 /BubbleTea/Intermediate
+/BubbleTea/Intermediate
+/BubbleTea/Saved/Autosaves
+/BubbleTea/Saved
