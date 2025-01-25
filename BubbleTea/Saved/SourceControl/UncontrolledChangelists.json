@@ -7,7 +7,20 @@
 			"files": [
 				"E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/Blueprints/DragActors/BP_BeansDrag.uasset",
 				"E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/FirstPerson/Input/Actions/IA_ClickOnIngredient.uasset",
-				"E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/FirstPerson/Input/IMC_Default.uasset"
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/FirstPerson/Input/IMC_Default.uasset",
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/SimTestLevel.umap",
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/Ingredients/BP_Beans.uasset",
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/Ingredients/BP_Blacktea.uasset",
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/Ingredients/BP_Coconut.uasset",
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/Ingredients/BP_Coloured_Pearls.uasset",
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/Ingredients/BP_Green_Pearls.uasset",
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/Ingredients/BP_Ice.uasset",
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/Ingredients/BP_Matcha.uasset",
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/Ingredients/BP_Milk.uasset",
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/Ingredients/BP_Passionfruit_Juice.uasset",
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/Ingredients/BP_Sugar.uasset",
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/Ingredients/BP_Tapioca.uasset"
 			]
 		}
 	]
