@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea2/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/SimTestLevel.umap",
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea2/BubbleTea-5.5/BubbleTea/Content/Assets/fakeWater/M_FakeLiquid.uasset",
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea2/BubbleTea-5.5/BubbleTea/Content/Assets/fakeWater/MPR_MaterialParameterCollection.uasset",
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea2/BubbleTea-5.5/BubbleTea/Content/Assets/simpleFakeWater/M_simpleFakeWater.uasset",
+				"E:/Programme/Unreal-Engine/Projects/BubbleTea2/BubbleTea-5.5/BubbleTea/Content/Assets/cup/cup.uasset",
+=======
+>>>>>>> b9957fd04123aee43d9a25d7ac55917d5e9434a5
 				"E:/Projects/BubbleTea-5.5/BubbleTea/Content/Assets/wallWithWindow/wall_glass.uasset",
 				"E:/Projects/BubbleTea-5.5/BubbleTea/Content/SimTestLevel/SimTestLevel.umap",
 				"E:/Projects/BubbleTea-5.5/BubbleTea/Content/Assets/coconut/cocunut.uasset",
